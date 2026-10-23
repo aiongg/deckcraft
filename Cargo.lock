@@ -808,7 +808,7 @@ dependencies = [
 [[package]]
 name = "craft-media"
 version = "0.1.0"
-source = "git+https://github.com/aiongg/craft-libs?rev=02682977c7da14584c43306fe48c33f01d0da151#02682977c7da14584c43306fe48c33f01d0da151"
+source = "git+https://github.com/storytold/craft-libs?rev=f97c84d2734c77f7dce7074a7bd789284c979b12#f97c84d2734c77f7dce7074a7bd789284c979b12"
 dependencies = [
  "thiserror 2.0.21",
 ]
